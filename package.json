@@ -1,0 +1,22 @@
+{
+  "name": "githello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjaferDo/gitHello.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjaferDo/gitHello/issues"
+  },
+  "homepage": "https://github.com/mjaferDo/gitHello#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  }
+}
